@@ -1,0 +1,41 @@
+<html>
+<head>
+<title>
+صفحة المشتريات
+</title>
+</head>
+<body bgcolor="#e0e0d2" align="right">
+<img src="logo.jpg" width="90" height="90" align="center"><br>
+<br>
+
+<h1 align="center"> عرض المشتريات </h1>
+
+الشحن والتوصيل:<br>
+<br>
+<input type="text"> أضف عنوان جديد <br/>
+<input type="text"> عنوان التوصيل <br/>
+<br>
+<br>
+اختر شركة الشحن <br>
+<input type="radio"> ارامكس 5-10 يوم<br>
+<input type="radio"> سمسا 7-12 يوم مجاني<br>
+<form>
+<br>
+مدة التوصيل <br>
+ما بين 7 إلى 14 يوم<br>
+<br>
+<br>
+رسوم التوصيل:<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="pay.jpg" width="400" height="100" align="left">
+</body>
+</html>
